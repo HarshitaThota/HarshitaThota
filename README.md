@@ -11,6 +11,13 @@ _I’m a Python developer passionate about crafting AI-driven tools that inspire
 
 
 ## 🚀 A Few Recent Projects
+
+- 🧩 [**PartSelect-Agent**](https://github.com/HarshitaThota/PartSelect-Agent)  
+  *An AI-powered customer support chatbot for appliance parts e-commerce. Built with FastAPI, LangChain, and JSON-based product retrieval, it handles part lookups, troubleshooting, and guided transactions through structured LLM responses.*
+
+- 🏗️ [**GAF Sales Intelligence Platform**](https://github.com/HarshitaThota/GAF_Sales)  
+  *A B2B analytics dashboard that scrapes roofing contractor data, stores it in PostgreSQL, and delivers insights through a Flask dashboard. Designed to support regional sales teams with contractor segmentation and outreach prioritization.*
+
 - 🌙 [**Oneironet**](https://github.com/HarshitaThota/Oneironet-AI)  
   *AI dream interpreter where multiple agentic lenses (Jungian, Vedic, Surrealist, Astrologer) explore and explain your dreams.*
   
