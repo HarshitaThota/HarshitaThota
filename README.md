@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00CFFF&width=435&lines=Hi%2C+I'm+Harshita!;AI+%2F+ML+%2F+Data+Enthusiast;Turning+Ideas+Into+Code+✨)
 
-
+    
 _I’m a Python developer passionate about crafting AI-driven tools that inspire curiosity, from alternate history agents to spiritual verse interpreters._
 
 
