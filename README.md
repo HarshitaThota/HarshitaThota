@@ -40,5 +40,5 @@ _I’m an AI Engineer passionate about crafting AI-driven tools that inspire cur
 - Portfolio: [harshii.com](https://harshii.com)
 
 - Email: [tharshita@gmail.com](mailto:tharshita@gmail.com)
-
+ 
 
