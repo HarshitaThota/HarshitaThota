@@ -29,7 +29,7 @@ _I’m an AI Engineer passionate about crafting AI-driven tools that inspire cur
   *AI-powered companion exploring Bhagavad Gita verses through retrieval-augmented generation.*
 
 - 😊 [**Mood-Tracker**](https://github.com/HarshitaThota/Mood-Tracker)  
-  *A daily mood logging app with simple analytics and tracking.*  
+  *A daily mood logging app with simple analytics and tracking.*      
 
 
 
